@@ -1,0 +1,15 @@
+{
+  "md_wordcount.stats_entry.show_pad_and_author_stats" : "Afficher les statistiques du Pad et de l'Auteur",
+  "md_wordcount.stats_template.characters_no_whitespace" : "Caractères (pas d'espaces):",
+  "md_wordcount.stats_template.characters_with_whitespace" : "Caractères (avec espace):",
+  "md_wordcount.stats_template.lines_as_only_contribution" : "Lignes en tant que contributeur solo :",
+  "md_wordcount.stats_template.number_of_authors" : "Nombre d'auteurs :",
+  "md_wordcount.stats_template.number_of_characters_exc_whitespace" : "Nombre de caractères (sauf espace blanc):",
+  "md_wordcount.stats_template.number_of_characters_ind_whitespace" : "Nombre de caractères (Inc Whitespace):",
+  "md_wordcount.stats_template.number_of_lines_contributed_to" : "Nombre de lignes contribuées à :",
+  "md_wordcount.stats_template.number_of_words_contributed_to" : "Nombre de mots contribués à :",
+  "md_wordcount.stats_template.pad_stats" : "Statistiques du pad",
+  "md_wordcount.stats_template.revision_count" : "Nombre de révisions :",
+  "md_wordcount.stats_template.saved_revision_count" : "Nombre de révisions enregistrées :",
+  "md_wordcount.stats_template.word_count" : "Nombre de mots :"
+}

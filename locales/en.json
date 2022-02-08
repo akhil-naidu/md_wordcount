@@ -1,0 +1,15 @@
+{
+  "md_wordcount.stats_entry.show_pad_and_author_stats" : "Show Pad and Author stats",
+  "md_wordcount.stats_template.characters_no_whitespace" : "Characters (no whitespace):",
+  "md_wordcount.stats_template.characters_with_whitespace" : "Characters (with whitespace):",
+  "md_wordcount.stats_template.lines_as_only_contribution" : "Lines as Only Contributor:",
+  "md_wordcount.stats_template.number_of_authors" : "Number of Authors:",
+  "md_wordcount.stats_template.number_of_characters_exc_whitespace" : "Number of Characters (Exc Whitespace):",
+  "md_wordcount.stats_template.number_of_characters_ind_whitespace" : "Number of Characters (Inc Whitespace):",
+  "md_wordcount.stats_template.number_of_lines_contributed_to" : "Number of Lines Contributed to:",
+  "md_wordcount.stats_template.number_of_words_contributed_to" : "Number of Words Contributed to:",
+  "md_wordcount.stats_template.pad_stats" : "Pad Stats",
+  "md_wordcount.stats_template.revision_count" : "Revision Count:",
+  "md_wordcount.stats_template.saved_revision_count" : "Saved Revision Count:",
+  "md_wordcount.stats_template.word_count" : "Word Count:"
+}
